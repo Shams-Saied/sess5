@@ -1,0 +1,4 @@
+ROS stands for robot operating system, it is an operating system for robots and robot-like devices, with a focus on collecting sensor input and separating that from motor control, allowing a simulation environment and a good UI for overseeing it all. It's flexible and powerful. It provides functionality for hardware abstraction, device drivers, communication between processes over multiple machines, tools for testing and visualization, and much more.
+
+
+
